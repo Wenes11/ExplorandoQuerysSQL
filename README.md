@@ -24,7 +24,7 @@ O sistema de banco de dados foi criado para representar cenários de gestão emp
 ### Estrutura atual do projeto  
 ![Projeto Atual](projetoatual.png)  
 
-### Gestão Empresarial em prática  
+### Os dados inseridos na tabela  
 ![Gestão Empresarial](gestaoempresarial.png)  
 
 ### Início do desenvolvimento  
